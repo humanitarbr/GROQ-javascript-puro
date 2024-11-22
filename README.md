@@ -1,7 +1,7 @@
 # GROQ-javascript-puro
 <br>
 <br>
-Ideia para extensões de navegador
+Ideial para extensões de navegador
 <br>
 <br>
 para pegar sua chave de API gratis
